@@ -1,2 +1,22 @@
-
-/* Your CSS Code here. */
+.main{
+	width:800;
+	height:800;
+	background-color:black;
+	border:
+}
+div{
+	display:flex;
+	width:400px;
+	height:80px;
+	border:1px solid black;
+	}
+.green{
+	background:green;
+	
+}
+.blue{
+	background:blue;
+}
+.red{
+	background:red;
+}
