@@ -1,22 +1,23 @@
 .main{
-	width:800;
-	height:800;
-	background-color:black;
-	border:
-}
-div{
+	width:500px;
+	height:500px;
+	background:lightblue;
 	display:flex;
-	width:400px;
-	height:80px;
-	border:1px solid black;
-	}
-.green{
-	background:green;
-	
+	justify-content:space-between;
+	flex-wrap:wrap;
 }
-.blue{
-	background:blue;
+.green{
+	width:80px;
+	height:80px;
+	background:green;
 }
 .red{
+	width:80px;
+	height:80px;
 	background:red;
+}
+.blue{
+	width:80px;
+	height:80px;
+	background:blue;
 }
